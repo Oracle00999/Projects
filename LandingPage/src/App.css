@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.bg-hero-pattern {
+  background-image: url("./assets/hero-pattern.svg");
+}
